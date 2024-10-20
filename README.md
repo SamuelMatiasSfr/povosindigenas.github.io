@@ -9,7 +9,6 @@ Bem-vindo ao repositório povosindigenas.github.io! Este projeto foi desenvolvid
 
 Siga as etapas abaixo:
 
-Qualquer IDE:
 1. Clone ou Baixe o Repositório
     - Baixe e extraia o arquivo zip, copie os arquivos para uma pasta
       
