@@ -1,4 +1,4 @@
-# Códigos em C++
+# Site Povos Indígenas
 
 Bem-vindo ao repositório povosindigenas.github.io! Este projeto foi desenvolvido como trabalho prática da matéria WEB 1 no curso técnico de Informática do CEFET-MG.
 
@@ -19,4 +19,4 @@ Qualquer IDE:
 3. Execute o projeto
 
 # Link: 
-https://github.com/SamuelMatiasSfr/povosindigenas.github.io
+https://samuelmatiassfr.github.io/povosindigenas.github.io/index.html
