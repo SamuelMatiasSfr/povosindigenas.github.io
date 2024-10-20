@@ -1,6 +1,6 @@
 # Códigos em C++
 
-Bem-vindo ao repositório de códigos em C++! Este projeto foi desenvolvido como trabalho prática da matéria WEB 1 no curso técnico de Informática do CEFET-MG.
+Bem-vindo ao repositório povosindigenas.github.io! Este projeto foi desenvolvido como trabalho prática da matéria WEB 1 no curso técnico de Informática do CEFET-MG.
 
 # Requisitos:
 - Visual Studio Code
@@ -16,4 +16,7 @@ Qualquer IDE:
 2. Configuração do Projeto
     - Abra a pasta no Visual Studio Code
 
-3. Execute o projeto 
+3. Execute o projeto
+
+# Link: 
+https://github.com/SamuelMatiasSfr/povosindigenas.github.io
