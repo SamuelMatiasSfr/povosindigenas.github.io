@@ -2,10 +2,10 @@
 
 Bem-vindo ao repositório povosindigenas.github.io! Este projeto foi desenvolvido como trabalho prática da matéria WEB 1 no curso técnico de Informática do CEFET-MG.
 
-# Requisitos:
+## Requisitos:
 - Visual Studio Code
 
-# Configuração⚙️
+## ⚙️Configuração⚙️
 
 Siga as etapas abaixo:
 
